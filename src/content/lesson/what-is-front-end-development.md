@@ -13,7 +13,7 @@ status: "published"
 
 In just a few words, front-end development is creating HTML dynamically using JavaScript.
 
-Using all your algorithmic knowledge (loops, conditionals, etc.), you can now let the computer generate HTML code based on different types of events (user interactions, or system events) that occur during the life of any website.
+Using all your algorithmic knowledge (loops, conditionals, etc.), you can now let the computer generate HTML code based on different [events](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events) (user interactions, or system events) that occur during the life of any website.
 
 ## Combining HTML+CSS+JavaScript
 
